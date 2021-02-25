@@ -1,1 +1,1 @@
-# covid_data
+I am interested in how well the COVID vaccine distribution is doing in Ireland. I have family there and my parents have dual citizenship. I obtained the data from the following github: https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations. 
